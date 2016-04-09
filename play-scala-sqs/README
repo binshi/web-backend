@@ -1,4 +1,4 @@
-This is your new Play application
-=================================
+** Play application using Scala and AWS SQS.
+**
 
-This file will be packaged with your application, when using `activator dist`.
+Uses scala wrapper from [https://github.com/kifi/franz](https://github.com/kifi/franz)
