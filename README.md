@@ -7,5 +7,7 @@ Big Data
 
 Real-time analytical tools:
 Impala (http://www.cloudera.com/content/cloudera/en/products-andservices/cdh/impala.html), 
+
 Presto (http://prestodb.io/)
+
 Storm (https://storm.apache.org/)
